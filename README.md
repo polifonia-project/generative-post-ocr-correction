@@ -4,6 +4,8 @@ A repository for generative post-ocr correction datasets and models
 # Datasets
 
 ## Benchmarks aligned and segmented
+To evaluate the performance our generative models, we used 8 datasets that are part of 2 standard post-OCR benchmarks (*[ICDAR2019](https://sites.google.com/view/icdar2019-postcorrectionocr)* and *[ICDAR2017](https://sites.google.com/view/icdar2017-postcorrectionocr?authuser=0)*) and a recently released one (*[Gutenberg-HathiTrust Parallel Corpus](https://databank.illinois.edu/datasets/IDB-1685085)*, GHT).
+The selected datasets cover three languages i.e. English, French and German; have texts from different sources, including monographs and periodicals; and contain different levels of errors, ranging from $0.24$ to $0.02$ CER.
 
 | dataset                       | lang | split | \#items | \#words | $\mu$ CER | $\sigma$ CER | $\mu$ WER | $\sigma$ WER |
 |-------------------------------|------|-------|---------|---------|-----------|--------------|-----------|--------------|
