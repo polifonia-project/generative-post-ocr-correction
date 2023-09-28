@@ -49,6 +49,6 @@ Silver datasets generated with our methods are available in ./data/silver_data f
 
 - *[PURIFIER monolongual (fine-tuned on English)](https://osf.io/download/yzmbr/)*
 
-- *[PURIFIER multilingual](fine-tuned on German)](https://osf.io/download/651562463d9bde03548d85dc/)*
+- *[PURIFIER multilingual(fine-tuned on German)](https://osf.io/download/651562463d9bde03548d85dc/)*
 
-- *[PURIFIER multilingual](fine-tuned on French)](https://osf.io/download/651562ea43df320393b6249f/)*
+- *[PURIFIER multilingual(fine-tuned on French)](https://osf.io/download/651562ea43df320393b6249f/)*
