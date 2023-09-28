@@ -43,10 +43,12 @@ Silver datasets generated with our methods are available in ./data/silver_data f
 
 # Models
 
-## CORRUPTER monolongual (Enlgish)
+- *[CORRUPTER monolongual (fine-tuned on Enlgish)](https://osf.io/download/651564c23d9bde035a8d7b5d/)*
 
-## CORRUPTER multilingual
+- *[CORRUPTER multilingual (fine-tuned on English, French and German)](https://osf.io/download/65156709b0a33e036c5919f8/)*
 
-## PURIFIER monolongual (Enlgish)
+- *[PURIFIER monolongual (fine-tuned on English)](https://osf.io/download/yzmbr/)*
 
-## PURIFIER multilingual
+- *[PURIFIER multilingual](fine-tuned on German)](https://osf.io/download/651562463d9bde03548d85dc/)*
+
+- *[PURIFIER multilingual](fine-tuned on French)](https://osf.io/download/651562ea43df320393b6249f/)*
