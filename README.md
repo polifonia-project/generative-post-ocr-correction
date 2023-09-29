@@ -1,4 +1,4 @@
-# generative-post-ocr-correction
+# Generative Post OCR Correction
 A repository for generative post-ocr correction datasets and models
 
 # Datasets
