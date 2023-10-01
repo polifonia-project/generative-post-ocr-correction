@@ -1,3 +1,19 @@
+---
+component-id: generative-post-ocr-correction
+name: Generative Post-OCR Correction
+description: A repository for generative post-ocr correction datasets and models
+type: Repository
+release-date: 01/10/2023
+release-number: v0.1
+work-package: 
+- WP4
+licence: CC-BY_v4
+links:
+- https://github.com/polifonia-project/generative-post-ocr-correction
+credits:
+- https://github.com/roccotrip
+---
+
 # Generative Post OCR Correction
 A repository for generative post-ocr correction datasets and models
 
